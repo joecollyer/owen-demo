@@ -2,7 +2,7 @@
 layout: page
 title: Microwave Background Radiation
 subtitle: Physics Homework | Owen Boffey
-cover-img: https://owenbof.github.io/cdn/Earth.jpg
+cover-img: https://i.ibb.co/g3NS9kV/harris.png
 ---
 
 ## What is Cosmic Microwave Background Radiation?
