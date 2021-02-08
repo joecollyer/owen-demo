@@ -11,5 +11,5 @@ The Big Bang Theory is the current leading explanation about the beginning of th
 
 The Big Bang is a theory scientist have constructed for how the universe seen around us came to be. The theory does not attempt to answer the most common question humans ask about the origin of the cosmos: why? This question likely cannot be answered since, as stated on earthsky.org, “whatever caused the appearance of that tiny point of energy, containing the seeds of everything that would ever be, was not of this universe”.
 
-Although the Big Bang is just a theory, there is a significant amount of evidence pointing towards its truth. This evidence includes: the redshift of galaxies, microwave background, the mixture of elements and looking at extremely distant galaxies.
+Although the Big Bang is just a theory, there is a significant amount of evidence pointing towards its truth. This evidence includes: the (redshift of galaxies)[/redshift], (microwave background)[/microwave-background-radiation], the (mixture of elements)[/mixture-of-elements] and looking at extremely (distant galaxies)[/distant-galaxies].
 
