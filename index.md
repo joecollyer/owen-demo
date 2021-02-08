@@ -5,7 +5,7 @@ subtitle: Physics Homework | Owen Boffey.
 cover-img: https://owenbof.github.io/cdn/Earth.jpg
 ---
 
-What is the Big Bang Theory?
+**What is the Big Bang Theory?**
 
 The Big Bang Theory is the current leading explanation about the beginning of the universe. In summary, it states that the universe as we know it started with just a single, microscopic point, then over the next 13.7 billion years it expanded to the cosmos that we know today. Not only was The Big Bang Theory the birth of matter, but also space and time which makes it very hard to comprehend. 
 
