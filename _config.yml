@@ -101,7 +101,7 @@ page-col: "#121212"
 text-col: "#FFFFFF"
 link-col: "#B3B3B3"
 hover-col: "#FFFFFF"
-footer-col: "#B3B3B3"
+footer-col: "#404040"
 footer-text-col: "#FFFFFF"
 footer-link-col: "#B3B3B3"
 
