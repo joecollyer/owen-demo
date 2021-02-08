@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Physics Homework
-subtitle: Hello Robert
+subtitle: Hello
 ---
 
-Demo work aaaaaa
+Demo work
