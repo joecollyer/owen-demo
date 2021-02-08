@@ -14,9 +14,10 @@ author: Owen Boffey
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Other Stuff:
-    - Joe Collyer: "https://www.joecollyer.com"
+  Redshift of Galaxies: "/redshift"
+  Microwave Background Radiation: "/microwave-background-radiation"
+  Mixture of Elements: "/mixture-of-elements"
+  Distant Galaxies: "/distant-galaxies"
   
 
 # --- Logo --- #
