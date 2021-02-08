@@ -17,14 +17,13 @@ navbar-links:
   About Me: "aboutme"
   Other Stuff:
     - Joe Collyer: "https://www.joecollyer.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Physics: "https://demo.owenboffey.com/physics-homework"
+  
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/bof.png"
+avatar: ""
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
