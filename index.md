@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Big Bang Theory
-subtitle: Physics Homework | Owen Boffey.
+subtitle: Physics Homework | Owen Boffey
 cover-img: https://owenbof.github.io/cdn/Earth.jpg
 ---
 
