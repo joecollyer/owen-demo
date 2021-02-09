@@ -2,7 +2,7 @@
 layout: page
 title: Redshift of Galaxies
 subtitle: Physics Homework | Owen Boffey
-cover-img: https://owenbof.github.io/cdn/Earth.jpg
+cover-img: https://joec.b-cdn.net/Capture.PNG
 ---
 
 ## What is redshift?
